@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="GDPR Form">27cc7cf81b31201079497596cc4bcbf6</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 07:01:41</sys_created_on>
+        <sys_id>bab442f01b8e201079497596cc4bcbfa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GDPR Form.Any User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_bab442f01b8e201079497596cc4bcbfa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 07:03:18</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>89fa3b69db0f7f808aea21c40596199f</instance_id>
+        <instance_name>dev90612</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_bab442f01b8e201079497596cc4bcbfa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="GDPR Form">27cc7cf81b31201079497596cc4bcbf6</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-29 07:01:41</sys_created_on><sys_id>bab442f01b8e201079497596cc4bcbfa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>GDPR Form.Any User</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_bab442f01b8e201079497596cc4bcbfa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-29 07:03:18</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-807739480</payload_hash>
+        <record_name>GDPR Form.Any User</record_name>
+        <reverted_from/>
+        <source>35e5615d1bdd201079497596cc4bcb26</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 07:03:18</sys_created_on>
+        <sys_id>aa154e381b8e201079497596cc4bcb7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1774cf40e400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 07:03:18</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>a2154e385d8e20108f76d028b1be697f</update_guid>
+        <update_guid_history>a2154e385d8e20108f76d028b1be697f:-807739480,7eb48a38138e201003d86a900b12cecc:1044380778</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="GDPR Form.Any User">263e8abc1b8e201079497596cc4bcb38</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 07:43:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>02d4d4588bca4136800aae31292b7e29</sys_id>
+        <sys_metadata>bab442f01b8e201079497596cc4bcbfa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GDPR Form.Any User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="GDPR Form">27cc7cf81b31201079497596cc4bcbf6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_bab442f01b8e201079497596cc4bcbfa</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_bab442f01b8e201079497596cc4bcbfa">aa154e381b8e201079497596cc4bcb7f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 07:43:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

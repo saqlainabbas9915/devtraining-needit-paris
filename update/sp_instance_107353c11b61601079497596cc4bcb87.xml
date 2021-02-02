@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">672157811b61601079497596cc4bcbd1</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-05 10:52:40</sys_created_on>
+        <sys_id>107353c11b61601079497596cc4bcb87</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_107353c11b61601079497596cc4bcb87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-05 10:59:12</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p class=\"ql-align-justify\"><strong>NOTE: This page only applies to individuals located in the European Union (EU) and Switzerland. If you are not in an EU country and have questions about how Progress handles your data, you can email us your questions at Privacy@progress.com.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Complete this form to submit a GDPR Data Subject Access Request. Use the buttons to indicate your relationship to Progress and the type of request you are making. Hover over the buttons for descriptions and instructions that may be helpful in completing the form.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">There is no fee to submit this request, but Progress reserves the right to charge a reasonable fee for requests that are unfounded, excessive, or repetitive.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">After receiving your data subject access request, we may contact you to request additional supporting information and/or proof of your identity. This helps us to safeguard your privacy and personal data.&nbsp;Once we have all the information necessary to process your request and have satisfactorily validated your identity, we will respond within one month and will aim to provide all required information to you within the same period. If we require more information from you, or if your request is unusually complicated, we may require more time and will inform you accordingly.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">By completing this form, you are making a data subject access request under the GDPR for personal data collected, processed, and held about you by us.&nbsp;Further, by submitting this request, you confirm that you are the data subject named in this Data Subject Access Request Form. You warrant that you are the individual named and will fully indemnify Progress for all losses and expenses incurred if you are not. We cannot accept requests in respect of your personal data from anyone else, including members of your&nbsp;family.</p><p>&nbsp;<br></p><p><br></p>",
+		"displayValue": "<p class=\"ql-align-justify\"><strong>NOTE: This page only applies to individuals located in the European Union (EU) and Switzerland. If you are not in an EU country and have questions about how Progress handles your data, you can email us your questions at Privacy@progress.com.</strong></p>\n<p class=\"ql-align-justify\">&nbsp;</p>\n<p class=\"ql-align-justify\">Complete this form to submit a GDPR Data Subject Access Request. Use the buttons to indicate your relationship to Progress and the type of request you are making. Hover over the buttons for descriptions and instructions that may be helpful in completing the form.</p>\n<p class=\"ql-align-justify\">&nbsp;</p>\n<p class=\"ql-align-justify\">There is no fee to submit this request, but Progress reserves the right to charge a reasonable fee for requests that are unfounded, excessive, or repetitive.</p>\n<p class=\"ql-align-justify\">&nbsp;</p>\n<p class=\"ql-align-justify\">After receiving your data subject access request, we may contact you to request additional supporting information and/or proof of your identity. This helps us to safeguard your privacy and personal data.&nbsp;Once we have all the information necessary to process your request and have satisfactorily validated your identity, we will respond within one month and will aim to provide all required information to you within the same period. If we require more information from you, or if your request is unusually complicated, we may require more time and will inform you accordingly.</p>\n<p class=\"ql-align-justify\">&nbsp;</p>\n<p class=\"ql-align-justify\">By completing this form, you are making a data subject access request under the GDPR for personal data collected, processed, and held about you by us.&nbsp;Further, by submitting this request, you confirm that you are the data subject named in this Data Subject Access Request Form. You warrant that you are the individual named and will fully indemnify Progress for all losses and expenses incurred if you are not. We cannot accept requests in respect of your personal data from anyone else, including members of your&nbsp;family.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=107353c11b61601079497596cc4bcb87"/>
+</record_update>

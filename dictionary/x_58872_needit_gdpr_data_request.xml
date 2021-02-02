@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="GDPR Data Request" max_length="40" name="x_58872_needit_gdpr_data_request" sizeclass="0" type="collection">
+        <element choice="1" label="Country" mandatory="true" max_length="40" name="country" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="India" sequence="0" value="india"/>
+                <element inactive_on_update="false" label="United states" sequence="1" value="united states"/>
+                <element inactive_on_update="false" label="Canada" sequence="2" value="canada"/>
+            </choice>
+        </element>
+        <element label="Email for contact" max_length="40" name="email_for_contact" type="string"/>
+        <element label="Email in our records" max_length="40" name="email_in_our_records" type="string"/>
+        <element label="First Name" max_length="15" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element choice="1" label="Period" mandatory="true" max_length="40" name="period" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Prospective" sequence="0" value="prospective"/>
+                <element inactive_on_update="false" label="Current" sequence="1" value="current"/>
+                <element inactive_on_update="false" label="Former" sequence="2" value="former"/>
+            </choice>
+        </element>
+        <element label="Request details" max_length="40" name="request_details" type="string"/>
+        <element choice="1" label="Type of Subject" mandatory="true" max_length="40" name="type_of_subject" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Employee" sequence="0" value="employee"/>
+                <element inactive_on_update="false" label="Customer" sequence="1" value="customer"/>
+                <element inactive_on_update="false" label="Partner" sequence="2" value="partner"/>
+                <element inactive_on_update="false" label="Vendor" sequence="3" value="vendor"/>
+            </choice>
+        </element>
+    </element>
+</database>
